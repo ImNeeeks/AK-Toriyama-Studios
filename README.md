@@ -1,24 +1,12 @@
 # AK-Toriyama-Studios 
-Refactor AK-T-S marketing site
 
-## User Story
-As A marketing agency
+## Description
 
-I WANT a codebase that follows HTML semantics
+This project was done to refactor an existing marketing site.
 
-ALONG with accesibility standards so that it is optimized for search engines
+The source code now shows semantic HTML elements
 
-## Acceptance Criteria
-GIVEN a webpage meets accessibility standards
+The icon and image elements have accesible alt attributes
 
-WHEN I view the title element
+The title element shows a unique, descriptive title
 
-THEN I find a unique title
-
-WHEN I view the structure of the HTML elements
-
-THEN I find semantic HTML elements
-
-WHEN I view the image elements
-
-THEN I find accesible alt attributes
