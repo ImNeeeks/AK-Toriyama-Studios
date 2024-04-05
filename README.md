@@ -10,3 +10,6 @@ The icon and image elements have accesible alt attributes
 
 The title element shows a unique, descriptive title
 
+![Mock-Up](Develop/assets/images/screenshot1.jpeg)
+![Mock-Up](Develop/assets/images/screenshot2.jpeg)
+
